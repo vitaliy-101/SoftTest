@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: SoftProject
+server:
+    port: 8099
